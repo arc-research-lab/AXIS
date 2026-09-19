@@ -1,5 +1,5 @@
 # AXIS: AI Scaling and Infrastructure Survey
-![AXIS: AI Scaling and Infrastructure Survey](./axis.pdf)
+![AXIS: AI Scaling and Infrastructure Survey](./axis.png)
 
 ## Reference
 [1] NVIDIA Corporation, “NVIDIA Tesla P100: The Most Advanced Datacenter Accelerator Ever Built,” White Paper, 2016. [Online](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf).
