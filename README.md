@@ -26,28 +26,30 @@
 
 [12] S. Xu et al., “Maia 200: A Software Defined Dataflow System for Large-scale AI Acceleration,” *arXiv:2608.24664*, 2026. [Online](https://arxiv.org/abs/2608.24664).
 
-[13] A. Vaswani et al. “Attention Is All You Need.” *NIPS*, 2017. [Paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html).
+[13] K. He et al. “Deep Residual Learning for Image Recognition.” *CVPR*, 2016. [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html).
 
-[14] J. Devlin et al. “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.” *NAACL-HLT*, 2019. [Paper](https://aclanthology.org/N19-1423/).
+[14] A. Vaswani et al. “Attention Is All You Need.” *NIPS*, 2017. [Paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html).
 
-[15] A. Radford et al. “Language Models are Unsupervised Multitask Learners.” OpenAI technical report, 2019. [PDF](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
+[15] J. Devlin et al. “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.” *NAACL-HLT*, 2019. [Paper](https://aclanthology.org/N19-1423/).
 
-[16] C. Raffel et al. “Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.” *JMLR*, 2020. [Paper](https://jmlr.org/papers/v21/20-074.html).
+[16] A. Radford et al. “Language Models are Unsupervised Multitask Learners.” OpenAI technical report, 2019. [PDF](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
 
-[17] T. Brown et al. “Language Models are Few-Shot Learners.” *NeurIPS*, 2020. [Paper](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html).
+[17] C. Raffel et al. “Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.” *JMLR*, 2020. [Paper](https://jmlr.org/papers/v21/20-074.html).
 
-[18] J. Lin et al. “M6-10T: A Sharing-Delinking Paradigm for Efficient Multi-Trillion Parameter Pretraining.” arXiv:2110.03888, 2021. [Paper](https://arxiv.org/abs/2110.03888).
+[18] T. Brown et al. “Language Models are Few-Shot Learners.” *NeurIPS*, 2020. [Paper](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html).
 
-[19] S. Smith et al. “Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model.” arXiv:2201.11990, 2022. [Paper](https://arxiv.org/abs/2201.11990).
+[19] J. Lin et al. “M6-10T: A Sharing-Delinking Paradigm for Efficient Multi-Trillion Parameter Pretraining.” arXiv:2110.03888, 2021. [Paper](https://arxiv.org/abs/2110.03888).
 
-[20] A. Chowdhery et al. “PaLM: Scaling Language Modeling with Pathways.” *JMLR*, 2023. [Paper](https://jmlr.org/papers/v24/22-1144.html).
+[20] S. Smith et al. “Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model.” arXiv:2201.11990, 2022. [Paper](https://arxiv.org/abs/2201.11990).
 
-[21] A. Grattafiori et al. “The Llama 3 Herd of Models.” arXiv:2407.21783, 2024. [Paper](https://arxiv.org/abs/2407.21783).
+[21] A. Chowdhery et al. “PaLM: Scaling Language Modeling with Pathways.” *JMLR*, 2023. [Paper](https://jmlr.org/papers/v24/22-1144.html).
 
-[22] DeepSeek-AI et al. “DeepSeek-V3 Technical Report.” arXiv:2412.19437, 2024. [Paper](https://arxiv.org/abs/2412.19437).
+[22] A. Grattafiori et al. “The Llama 3 Herd of Models.” arXiv:2407.21783, 2024. [Paper](https://arxiv.org/abs/2407.21783).
 
-[23] Kimi Team. “Kimi K2: Open Agentic Intelligence.” arXiv:2507.20534, 2025. [Paper](https://arxiv.org/abs/2507.20534).
+[23] DeepSeek-AI et al. “DeepSeek-V3 Technical Report.” arXiv:2412.19437, 2024. [Paper](https://arxiv.org/abs/2412.19437).
 
-[24] DeepSeek-AI et al. “DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence.” arXiv:2606.19348, 2026. [Paper](https://arxiv.org/abs/2606.19348).
+[24] Kimi Team. “Kimi K2: Open Agentic Intelligence.” arXiv:2507.20534, 2025. [Paper](https://arxiv.org/abs/2507.20534).
 
-[25] Moonshot AI. “Kimi K3: Open Frontier Intelligence.” Technical blog, 2026. [Source](https://www.kimi.com/blog/kimi-k3).
+[25] DeepSeek-AI et al. “DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence.” arXiv:2606.19348, 2026. [Paper](https://arxiv.org/abs/2606.19348).
+
+[26] Moonshot AI. “Kimi K3: Open Frontier Intelligence.” Technical blog, 2026. [Source](https://www.kimi.com/blog/kimi-k3).
